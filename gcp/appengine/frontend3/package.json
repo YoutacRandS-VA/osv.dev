@@ -29,7 +29,7 @@
     "mini-css-extract-plugin": "2.7.6",
     "raw-loader": "4.0.2",
     "sass": "1.63.4",
-    "sass-loader": "12.6.0",
+    "sass-loader": "14.2.1",
     "style-loader": "3.3.3",
     "webpack": "5.87.0",
     "webpack-bundle-analyzer": "4.9.1",
