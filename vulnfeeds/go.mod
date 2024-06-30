@@ -6,8 +6,8 @@ require (
 	cloud.google.com/go/logging v1.8.1
 	cloud.google.com/go/secretmanager v1.11.1
 	github.com/aquasecurity/go-pep440-version v0.0.0-20210121094942-22b2f8951d46
-	github.com/go-git/go-git/v5 v5.9.0
-	github.com/google/go-cmp v0.5.9
+	github.com/go-git/go-git/v5 v5.11.0
+	github.com/google/go-cmp v0.6.0
 	github.com/google/osv-scanner v1.4.0
 	github.com/knqyf263/go-cpe v0.0.0-20230627041855-cb0794d06872
 	github.com/sethvargo/go-retry v0.2.4
@@ -24,7 +24,6 @@ require (
 	dario.cat/mergo v1.0.0 // indirect
 	github.com/Microsoft/go-winio v0.6.1 // indirect
 	github.com/ProtonMail/go-crypto v0.0.0-20230923063757-afb1ddc0824c // indirect
-	github.com/acomagu/bufpipe v1.0.4 // indirect
 	github.com/aquasecurity/go-version v0.0.0-20210121072130-637058cfe492 // indirect
 	github.com/cloudflare/circl v1.3.3 // indirect
 	github.com/cyphar/filepath-securejoin v0.2.4 // indirect
@@ -45,13 +44,13 @@ require (
 	github.com/skeema/knownhosts v1.2.1 // indirect
 	github.com/xanzy/ssh-agent v0.3.3 // indirect
 	go.opencensus.io v0.24.0 // indirect
-	golang.org/x/crypto v0.14.0 // indirect
+	golang.org/x/crypto v0.16.0 // indirect
 	golang.org/x/mod v0.12.0 // indirect
-	golang.org/x/net v0.17.0 // indirect
+	golang.org/x/net v0.19.0 // indirect
 	golang.org/x/oauth2 v0.12.0 // indirect
 	golang.org/x/sync v0.3.0 // indirect
-	golang.org/x/sys v0.13.0 // indirect
-	golang.org/x/text v0.13.0 // indirect
+	golang.org/x/sys v0.15.0 // indirect
+	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/tools v0.13.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
 	google.golang.org/api v0.143.0 // indirect
